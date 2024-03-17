@@ -1,0 +1,30 @@
+h1{
+    color: rgb(230, 72, 88);
+}
+
+#sk{
+    color: bisque;
+}
+body{
+    background-color :beige
+}
+button{
+    background: rgb(45, 126, 231);
+    height: 40px;
+    line-height: 40px;
+    border-radius: 20px;
+    border: none;
+    margin: 10px 0px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+    color: white;
+    font-size: 12px;
+    width: 20%;
+}
+nav {
+    background: white;
+    width: 360px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    box-shadow: 2px 2px 20px rgba(0,0,0,0.3);
+}
